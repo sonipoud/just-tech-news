@@ -41,4 +41,4 @@ Post.init(
 );
 
 
-module.expoprts = Post;
+module.exports = Post;
